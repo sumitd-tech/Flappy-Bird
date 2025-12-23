@@ -20,11 +20,11 @@ Each time the bird passes through the pipes, the score increases.
 ## Project Files
 
 Flappy-Bird/
-├── Assets/ # Scripts, sprites, and game objects
-├── Library/ # Unity auto-generated files
-├── ProjectSettings/ # Unity project settings
-├── Packages/ # Unity packages
-└── README.md
+─ Assets/ # Scripts, sprites, and game objects
+─ Library/ # Unity auto-generated files
+─ ProjectSettings/ # Unity project settings
+─ Packages/ # Unity packages
+─ README.md
 
 
 ## Tools Used
